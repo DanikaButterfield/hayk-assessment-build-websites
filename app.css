@@ -22,6 +22,7 @@ section {
 .heading {
     justify-content: space-between;
     background-color: #333333;
+    padding-bottom: .8%
 }
 
 header{
